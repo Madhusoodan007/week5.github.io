@@ -1,5 +1,4 @@
-
-element.style {
+element.style{
 }
 html {
     font-size: 10px;
@@ -36,7 +35,7 @@ body {
     margin: 0 auto;
     top: 40%;
     z-index: 100;
-    background-color: #FFF;
+    background-color: #61122f;
 }
 
 body {
@@ -105,10 +104,11 @@ body {
 }
 
 .panel-footer {
+    color: #fff;
     margin-top: 30px;
     padding-top: 35px;
     padding-bottom: 30px;
-    background-color: #222;
+    background-color: #000;
     border-top: 0;
 }
 .panel-footer {
@@ -116,4 +116,3 @@ body {
     border-bottom-right-radius: 3px;
     border-bottom-left-radius: 3px;
 }
-
